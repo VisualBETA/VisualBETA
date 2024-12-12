@@ -11,5 +11,5 @@
 </a>
 </p>
 
-- **👩🏻‍💻 Roblox Lua developer and creator of the popular free project.**<br/>
+- **👩🏻‍💻 Roblox Lua developer — 1.6y**<br/>
 - **💭 Contact — [@Tevfn](https://discord.com/users/1213487849547104269)**<br/>
