@@ -1,16 +1,15 @@
-## Hi there 👋
+## 👋 VisualBETA!
 
-<!--
-**VisualBETA/VisualBETA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">✨ Stats:</h3>
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=VisualBETA" alt="GitHub Streak Stats" />
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+<a href="https://www.lua.org/" target="_blank">
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Lua-Logo.svg" alt="Lua" height="35" width="35" />
+</a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👩🏻‍💻 Roblox Lua developer and creator of the popular free project.<br/>
+- 💭 Contact — [@Tevfn](https://discord.com/users/1213487849547104269)<br/>
